@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 <head>
 <title>HBD_Soyoung.html</title>
